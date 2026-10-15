@@ -20,6 +20,9 @@ The implementation models a clinical assistant that:
 
 ## Architecture
 
+![Secure AI Agent Governance Architecture](Secure%20AI%20Agent%20Governance%20Blueprint.png)
+
+
 ```text
 Clinician
    |

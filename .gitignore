@@ -1,0 +1,17 @@
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+credentials.json
+application_default_credentials.json
+service-account*.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+scripts/rendered/
+*.log
+.DS_Store

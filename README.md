@@ -167,4 +167,4 @@ This repository documents my own deployment, configuration, troubleshooting, tes
 
 Sam Etemad  
 IT Infrastructure, Cloud & Security  
-https://sametemad.ca
+https://sametemad.com
